@@ -1,0 +1,15 @@
+{
+  "name": "final_exam_practical",
+  "version": "1.0.0",
+  "description": "Final Exam Practical Project FSW111",
+  "main": "server.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "assert": "^2.1.0"
+  }
+}
